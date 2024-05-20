@@ -117,7 +117,7 @@ num = 20
 num **= 10
 print("num:", num)
 
-'''
+
 #logical operator
 a = 50
 b = 20
@@ -131,4 +131,5 @@ val2 = False
 #print("And Opration:", val1, val2)
 
 print("Or Opration:", (a==b) or(a>b))
- 
+ '''
+
