@@ -1,4 +1,4 @@
-'''
+
 A , B = 2, 3
 Txt = "@"
 print(2*Txt*3)
@@ -131,5 +131,5 @@ val2 = False
 #print("And Opration:", val1, val2)
 
 print("Or Opration:", (a==b) or(a>b))
- '''
+ 
 
